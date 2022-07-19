@@ -9,7 +9,7 @@ the **packages** directory contains the installation packages for Linux, Mac, an
 ## Change history
 
 #### 2020-08
-* Version 2.3b
+* Version 2.3e
 
 Following the 23rd NSDD meeting, held at the IAEA (8-12 April 2019) the calculated total conversion coefficient, CC will be only put on the G or on the G-continuation record (DCC is asymmetric), if the CC eld is blank and the G-continuation record does not has CC. All other cases, CC will be put on the S G record. The rounding of uncertainties has been also changed to follow a widely used protocol in a number of scientific communities.
 
